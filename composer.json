@@ -1,0 +1,19 @@
+{
+    "name": "purnima.aggarwal/test-library",
+    "description": "Test lib",
+    "type": "test-package",
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    },
+    "authors": [
+        {
+            "name": "Purnima Aggarwal",
+            "email": "purnima.aggarwal@itech.media"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+
+}
