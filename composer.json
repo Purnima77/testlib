@@ -1,5 +1,5 @@
 {
-    "name": "purnima.aggarwal/test-library",
+    "name": "purnima.aggarwal/testlib",
     "description": "Test lib",
     "type": "test-package",
     "require-dev": {
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Purnima Aggarwal",
-            "email": "purnima.aggarwal@itech.media"
+            "email": "pgwebdev@gmail.com"
         }
     ],
     "require": {},
